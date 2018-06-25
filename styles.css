@@ -1,0 +1,32 @@
+body {
+    margin: auto;
+    width: 300px;
+    padding: 10px;
+    border: 1px solid grey;
+}
+
+.EAGLE{
+    width: 300px;
+}
+
+.done:hover{
+    border: 1px solid grey;
+    padding: 10px;
+    background-color: aqua;
+}
+.abn{
+    list-style-type: none;
+    padding: 0px;
+}
+#css{
+    border: 1px solid grey;
+    padding: 10px;
+    box-shadow: 5px 10px #888888;
+}
+h3:hover{
+   
+    color: red
+}
+h3{
+    text-align: center;
+}
